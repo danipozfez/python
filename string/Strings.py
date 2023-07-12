@@ -1,0 +1,8 @@
+print("primer String")
+print("hola "+"mundo")
+print("me llamo 'Daniel'")
+print("salto de \nlinea")
+print("Línea 1\nLínea 2\nLínea 3")
+print("A\tB\tC")
+print("D\tE\tF")
+print("G\tH\tI")
