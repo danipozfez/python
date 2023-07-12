@@ -4,7 +4,7 @@ nombre = "Tony Soprano"
 edad = 51
 nombre = "Julia"
 apellido = "Roberts"
-nombreCompleto = nombre + " " + apellido
-print(nombreCompleto)
+nombre_completo = nombre + " " + apellido
+print(nombre_completo)
 curso = "Python"
 print("Estás tomando un curso de " + curso)
